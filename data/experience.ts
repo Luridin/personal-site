@@ -12,7 +12,7 @@ export const experience = [
     role: "Lead Business Analyst",
     period: "2019 – 2021",
     description:
-      "Launched Launched workflow upgrades, optimizing distributions and contributions approval processes on an institutional retirement and trust application",
+      "Launched workflow upgrades, optimizing distributions and contributions approval processes on an institutional retirement and trust application",
     technologies: [],
   },
   {
