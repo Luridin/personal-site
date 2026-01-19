@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Mail, FileDown, Linkedin, Github } from "lucide-react";
+import { FaEnvelope, FaFileDownload, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const navLinks = [
     { id: "about", label: "About" },
@@ -91,7 +91,7 @@ export function Sidebar() {
                         className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                         aria-label="LinkedIn"
                     >
-                        <Linkedin className="h-6 w-6" />
+                        <FaLinkedin className="h-6 w-6" />
                     </a>
                 </li>
                 <li>
@@ -102,7 +102,7 @@ export function Sidebar() {
                         className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                         aria-label="GitHub"
                     >
-                        <Github className="h-6 w-6" />
+                        <FaGithub className="h-6 w-6" />
                     </a>
                 </li>
                 <li>
@@ -113,7 +113,7 @@ export function Sidebar() {
                         className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                         aria-label="Mail"
                     >
-                        <Mail className="h-6 w-6" />
+                        <FaEnvelope className="h-6 w-6" />
                     </a>
                 </li>
                 <li>
@@ -124,7 +124,7 @@ export function Sidebar() {
                         className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                         aria-label="Resume Download"
                     >
-                        <FileDown className="h-6 w-6" />
+                        <FaFileDownload className="h-6 w-6" />
                     </a>
                 </li>
             </ul>

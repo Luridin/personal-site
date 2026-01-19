@@ -9,8 +9,7 @@ import { FadeIn } from "../components/ui/FadeIn";
 export default function Home() {
   return (
     <div className="relative min-h-screen bg-[var(--bg-primary)]">
-      {/* Noise overlay */}
-      <div className="noise-overlay" />
+
 
       {/* Spotlight overlay */}
       <Spotlight />
