@@ -1,7 +1,7 @@
 export const experience = [
   {
     company: "Stats Perform",
-    role: "Product Owner II",
+    role: "AI Product Owner",
     period: "2021 – Present",
     description:
       "Leading application development on Sports Applications in the realm of Base and Event Data, working closely with Engineering, Product and Operations teams",
@@ -9,7 +9,7 @@ export const experience = [
   },
   {
     company: "Synechron",
-    role: "Lead Business Analyst",
+    role: "Product Owner",
     period: "2019 – 2021",
     description:
       "Launched workflow upgrades, optimizing distributions and contributions approval processes on an institutional retirement and trust application",
@@ -33,7 +33,7 @@ export const experience = [
   },
   {
     company: "Accenture",
-    role: "Senior Business Analyst",
+    role: "Business Analyst",
     period: "2014 – 2017",
     description:
       "Helped set up a cloud-based clinical trial system for a pharma client, cutting paperwork, time, and costs and boosting data accuracy. Also worked on App support for Energy Trader's , Risk managers and Settlement Team in the ETRM domain.",
