@@ -118,7 +118,7 @@ export function Sidebar() {
                 </li>
                 <li>
                     <a
-                        href="https://1drv.ms/w/c/93423c73ff3a73fc/IQCrQFtQV97QTKt3OUXKMKQCAcEdnz7LAOp1LxhF8FzTRtU?e=sHCSkT"
+                        href="https://1drv.ms/b/c/93423c73ff3a73fc/IQDxgIWSnmAzToe9s3R77C8bAQl1q3BLEr9lHcSEd8XsdFk?e=BoATsz"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
